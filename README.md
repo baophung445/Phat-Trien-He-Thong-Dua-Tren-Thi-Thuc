@@ -5,14 +5,8 @@ Giảng viên hướng dẫn: Nguyễn Ngọc Duy
 
 Thực hiện:
 1. Dự liệu:
--	Vũ Thị Ngoãn 				N16DCCN105
--	Trần Đức Vân Khanh 		N16DCCN074
--	Lê Mỹ Linh 				N16DCCN085
-2. Test
--	Nguyễn Phúc Nguyên		N16DCCN108
--	Nguyễn Đông Nhật			N16DCCN111
-3. Xây dựng chương trình
--	Nguyễn Trọng Tài			N15DCCN055
+ - Phùng Chí Bảo
+ - Phan Văn Hà
 
 -	Mục đích nhóm chúng em xây dựng “ứng dụng hỗ trợ tư vấn” để giúp người dùng tự nhìn nhận và xác định giá trị của bản thân, 
 xem trình độ học vấn, kỹ năng và kinh nghiệm làm việc đáng giá bao nhiêu trong thị trường việc làm hiện nay? Bằng cách này , 
