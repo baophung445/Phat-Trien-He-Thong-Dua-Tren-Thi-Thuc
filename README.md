@@ -1,5 +1,5 @@
 # UD-ho-tro-tu-van-luong
-Xây dựng kho dữ liệu và phát triển ứng dụng hỗ trợ tư vấn lương phù hợp với nghề nghiệp và trình độ
+Xây dựng kho dữ liệu và phát triển ứng dụng hỗ trợ tư vấn sách phù hợp với nghề nghiệp và trình độ
 
 Giảng viên hướng dẫn: Nguyễn Ngọc Duy
 
